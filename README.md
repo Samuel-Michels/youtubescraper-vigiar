@@ -48,6 +48,3 @@ python main.py https://www.youtube.com/@alanzoka --limit 10
 - **videos_[canal].[ext]**: Lista completa de vídeos com categoria.
 - **videos_+18_[canal].[ext]**: Relatório detalhado apenas das infrações encontradas. Disponível em **TXT**, **CSV** e **JSON**.
 
-
----
-*Desenvolvido em parceria com Antigravity.*
